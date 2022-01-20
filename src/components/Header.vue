@@ -1,7 +1,7 @@
 <template>
     <header>
       <!-- Header Section Start -->
-      <div class="">
+      <div>
         <div class="top-bar row d-flex align-items-center justify-content-between">
           
           <!-- Header Main Menu Start -->
@@ -244,8 +244,6 @@ a:hover {
   font-size: 17px;
   position: relative;
   padding: 7px 9px 7px 0;
- 
-  
 }
 
 .cart-items {
@@ -405,12 +403,6 @@ a:hover {
 }
 
 
-
-
-
-
-
-
 // .search-bar-container {
 //     display: flex;
 //     justify-content: center;
@@ -434,8 +426,6 @@ a:hover {
 // }
 
 
-
-
 // .search-bar: {
 //   background-color: white;
 //   border: 1px solid #1fad95;
@@ -449,8 +439,6 @@ a:hover {
 //     color: #1fad95;
 //     cursor: unset;
 // }
-
-
 
 // .search-input {
 //     font-size: 15px;

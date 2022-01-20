@@ -2,7 +2,7 @@
     <div class="work-culture">
         <div class="container">
             
-            <section class="title d-flex">
+            <section class="work d-flex">
                 <div class="description">
                     
                     <h3>everything in 
